@@ -1,1 +1,0 @@
-document.write("Stuff! Kappa");
